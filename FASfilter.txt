@@ -1,0 +1,6 @@
+!アダルトサイト用フィルター
+
+!2021-10-27
+gifnuki.com##div.textwidget
+gifruo.com##.clearfix.container_top_widget_content
+eromanga-daisuki.com###text-30

@@ -1,5 +1,10 @@
-!アダルトサイト用フィルター
+!僕の作った最強のAdGuard用フィルター
 
+!一般サイト
+smhn.info##.adsbygoogle
+smhn.info##.entry-content > aside
+
+!アダルトサイト用フィルター
 !オススメ欄
 gifnuki.com##div.textwidget
 gifruo.com##.clearfix.container_top_widget_content

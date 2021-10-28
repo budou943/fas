@@ -3,6 +3,7 @@
 !一般サイト
 smhn.info##.adsbygoogle
 smhn.info##.entry-content > aside
+smhn.info##.top_ad
 
 !アダルトサイト用フィルター
 !オススメ欄

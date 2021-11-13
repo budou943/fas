@@ -5,7 +5,7 @@ smhn.info##.adsbygoogle
 smhn.info##.entry-content > aside
 smhn.info##.top_ad
 www.gizmodo.jp###sp_giz_inarticle1
-www.gizmodo.jp###article-inner-cxad-1636791877507
+www.gizmodo.jp##.post-innerRelated
 www.gizmodo.jp##article.cxad.-sponsored.p-recommend-cardItem
 
 !アダルトサイト用フィルター

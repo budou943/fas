@@ -11,8 +11,9 @@ www.gizmodo.jp##.p-post-ad
 www.gizmodo.jp##article.cxad.-sponsored.p-recommend-cardItem
 
 !アダルトサイト用フィルター
-!オススメ欄
+
 gifnuki.com##div.textwidget
 gifruo.com##.clearfix.container_top_widget_content
 eromanga-daisuki.com###text-30
 nukeruo.com##.widget_custom_html.widget.widget_text
+erodoujinshi-world.com###ranking > div.itembox

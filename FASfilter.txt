@@ -17,3 +17,4 @@ gifruo.com##.clearfix.container_top_widget_content
 eromanga-daisuki.com###text-30
 nukeruo.com##.widget_custom_html.widget.widget_text
 erodoujinshi-world.com###ranking > div.itembox
+erodoujinshi-world.com##div.resetcounter:nth-child(6) > div:nth-child(3)

@@ -9,6 +9,7 @@ smhn.info##.top_ad
 www.gizmodo.jp##.post-innerRelated
 www.gizmodo.jp##.p-post-ad
 www.gizmodo.jp##article.cxad.-sponsored.p-recommend-cardItem
+gata21.jp##div.container:nth-child(5) > div.container-inner:first-child > div.content:first-child > aside.section-box:nth-child(7) > div.plugin-free_area.plugin-box.box.box-padding.box-margin.box-border
 
 !アダルトサイト用フィルター
 

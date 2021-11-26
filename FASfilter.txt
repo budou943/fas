@@ -19,3 +19,5 @@ eromanga-daisuki.com###text-30
 nukeruo.com##.widget_custom_html.widget.widget_text
 erodoujinshi-world.com###ranking > div.itembox
 erodoujinshi-world.com##div.resetcounter:nth-child(6) > div:nth-child(3)
+erogazo-ngo.com###text-32 > div.textwidget
+erogazo-ngo.com###text-18 > div.textwidget:last-child > div:first-child > table > tbody

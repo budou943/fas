@@ -1,7 +1,6 @@
 !僕の作った最強のAdGuard用フィルター
 ! Title: FASfilter
 ! Homepage: https://kazukievery.blogspot.com
-! Version: あ
 
 !一般サイト
 smhn.info##.adsbygoogle

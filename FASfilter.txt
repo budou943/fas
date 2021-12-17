@@ -27,3 +27,8 @@ erogazo-ngo.com###text-18 > div.textwidget:last-child > div:first-child > table 
 ilovepaipan.com###content > a:nth-child(6) > img
 ilovepaipan.com###content > a:first-child
 ilovepaipan.com###content > a:nth-child(4)
+movie.eroterest.net###content > div.adArea:nth-child(2)
+movie.eroterest.net###content > div.row:nth-child(3) > div.col-lg-10.order-2.mainContent:first-child > div.adArea:nth-child(2)
+movie.eroterest.net###content > div.row:nth-child(3) > div.col-lg-10.order-2.mainContent:first-child > div.imageListContent:nth-child(4) > iframe:nth-child(3)
+movie.eroterest.net###content > div.adArea.pcDispNone:last-child
+movie.eroterest.net###content > div.adArea.pcDispNone:nth-child(4)

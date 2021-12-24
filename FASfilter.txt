@@ -1,7 +1,7 @@
 !僕の作った最強のAdGuard用フィルター
 ! Title: FASfilter
 ! Homepage: https://www.かずき.com
-! Version: 最終更新:2021/11/27
+! Version: 最終更新:2021/12/24
 
 !一般サイト
 smhn.info##.adsbygoogle

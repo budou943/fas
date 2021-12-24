@@ -32,3 +32,7 @@ movie.eroterest.net###content > div.row:nth-child(3) > div.col-lg-10.order-2.mai
 movie.eroterest.net###content > div.row:nth-child(3) > div.col-lg-10.order-2.mainContent:first-child > div.imageListContent:nth-child(4) > iframe:nth-child(3)
 movie.eroterest.net###content > div.adArea.pcDispNone:last-child
 movie.eroterest.net###content > div.adArea.pcDispNone:nth-child(4)
+eromanga-time.com###shimi_comment_widget-3 > div.recent_comments:last-child
+dojin-pandemic.com###ranking > div.itembox
+dojin-pandemic.com##div.resetcounter:nth-child(3) > div:nth-child(2)
+dojin-pandemic.com###rank1to12

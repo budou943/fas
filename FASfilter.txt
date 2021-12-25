@@ -36,3 +36,7 @@ eromanga-time.com###shimi_comment_widget-3 > div.recent_comments:last-child
 dojin-pandemic.com###ranking > div.itembox
 dojin-pandemic.com##div.resetcounter:nth-child(3) > div:nth-child(2)
 dojin-pandemic.com###rank1to12
+ero-comic-hunter.net###js-load
+ero-comic-hunter.net###rank1to12
+ero-comic-hunter.net##div.resetcounter:nth-child(6) > div:nth-child(3)
+ero-comic-hunter.net##div.resetcounter:nth-child(6) > div.l-wrapper:nth-child(13) > main.l-main > div.dividerBottom > div.postContents:nth-child(9) > section.content > p:nth-child(9)

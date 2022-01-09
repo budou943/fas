@@ -1,7 +1,7 @@
 !僕の作った最強のAdGuard用フィルター
 ! Title: FASfilter
 ! Homepage: https://www.かずき.com
-! Version: 最終更新:2022/01/09
+! Version: 最終更新:2022/01/07
 
 !一般サイト
 smhn.info##.adsbygoogle
@@ -13,9 +13,12 @@ www.gizmodo.jp##article.cxad.-sponsored.p-recommend-cardItem
 gata21.jp##div.container:nth-child(5) > div.container-inner:first-child > div.content:first-child > aside.section-box:nth-child(7) > div.plugin-free_area.plugin-box.box.box-padding.box-margin.box-border
 app-liv.jp###page > div.l-container:nth-child(2) > div.l-container_inner > div.p-catlist:first-child > div.app-ranking.p-applist:last-child > div:nth-child(3) > div.c-app-card.p-pickup.js-app-list-card
 app-liv.jp###page > div.l-container:nth-child(2) > div.l-container_inner > div.p-catlist:first-child > div.app-ranking.p-applist:last-child > div.c-app-card.p-pickup.js-app-list-card:nth-child(19)
-minkou.jp###main > div.mod-section:nth-child(16) > div.result:last-child > div.mod-adsenseSearch.mod-adsenseSearch__box.adsenseSearch__listBottom.mod-adsenseSearch__minHeight:＊
+minkou.jp###main > div.mod-section:nth-child(16) > div.result:last-child > div.mod-adsenseSearch.mod-adsenseSearch__box.adsenseSearch__listBottom.mod-adsenseSearch__minHeight:last-child
+minkou.jp###main > div.mod-section:nth-child(16) > div.result:last-child > div.mod-adsenseSearch.mod-adsenseSearch__box.adsenseSearch__listBottom.mod-adsenseSearch__minHeight:nth-child(7)
+minkou.jp###main > div.mod-section:nth-child(16) > div.result:last-child > div.mod-adsenseSearch.mod-adsenseSearch__box.adsenseSearch__listBottom.mod-adsenseSearch__minHeight:nth-child(6)
+minkou.jp###main > div.mod-section:nth-child(16) > div.result:last-child > div.mod-adsenseSearch.mod-adsenseSearch__box.mod-adsenseSearch__listTop.mod-adsenseSearch__minHeight:nth-child(3)
 minkou.jp###main > div.mod-section:nth-child(16) > div.result:last-child > div.mod-jyukuSearchAdTxt:first-child
-minkou.jp###main > div.mod-section:nth-child(16) > div.result:last-child > div.mod-adsenseSearch.mod-adsenseSearch__＊
+minkou.jp###main > div.mod-section:nth-child(16) > div.result:last-child > div.mod-adsenseSearch.mod-adsenseSearch__box.mod-adsenseSearch__listTop.mod-adsenseSearch__minHeight:nth-child(2)
 gizmodo.jp###gz-recommendedBottom-outerAd
 gizmodo.jp##main.l-generalContent:nth-child(5) > div.l-generalContent-container > div.l-generalContent-primary > div:nth-child(6)
 

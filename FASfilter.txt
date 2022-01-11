@@ -1,7 +1,7 @@
 !僕の作った最強のAdGuard用フィルター
 ! Title: FASfilter
 ! Homepage: https://www.かずき.com
-! Version: 最終更新:2022/01/07
+! Version: 20210111
 
 !一般サイト
 smhn.info##.adsbygoogle
@@ -21,6 +21,7 @@ minkou.jp###main > div.mod-section:nth-child(16) > div.result:last-child > div.m
 minkou.jp###main > div.mod-section:nth-child(16) > div.result:last-child > div.mod-adsenseSearch.mod-adsenseSearch__box.mod-adsenseSearch__listTop.mod-adsenseSearch__minHeight:nth-child(2)
 gizmodo.jp###gz-recommendedBottom-outerAd
 gizmodo.jp##main.l-generalContent:nth-child(5) > div.l-generalContent-container > div.l-generalContent-primary > div:nth-child(6)
+lifehacker.jp###__next > div.block_lBlock__1OZ4-:nth-child(4) > div.block_lBlock_Primary__E7bx7.block_post__3b-uC:last-child > div:nth-child(4)
 
 !アダルトサイト用フィルター
 
@@ -50,3 +51,5 @@ ero-comic-hunter.net##div.resetcounter:nth-child(6) > div:nth-child(3)
 ero-comic-hunter.net##div.resetcounter:nth-child(6) > div.l-wrapper:nth-child(13) > main.l-main > div.dividerBottom > div.postContents:nth-child(9) > section.content > p:nth-child(9)
 nazo2.net###qbox > section > div.ad_article_center:nth-child(8)
 movie.eroterest.net###content > div.row:nth-child(3) > div.col-lg-10.order-2.mainContent:first-child > div.imageListContent:nth-child(6) > iframe:nth-child(3)
+eromanga-time.com###i_frame
+erogazounosuke.com##div.container:nth-child(3) > div.container-inner:first-child > div.foot-pick:nth-child(7)

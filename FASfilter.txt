@@ -21,6 +21,7 @@ minkou.jp###main > div.mod-section:nth-child(16) > div.result:last-child > div.m
 minkou.jp###main > div.mod-section:nth-child(16) > div.result:last-child > div.mod-adsenseSearch.mod-adsenseSearch__box.mod-adsenseSearch__listTop.mod-adsenseSearch__minHeight:nth-child(2)
 gizmodo.jp###gz-recommendedBottom-outerAd
 gizmodo.jp##main.l-generalContent:nth-child(5) > div.l-generalContent-container > div.l-generalContent-primary > div:nth-child(6)
+gizmodo.jp##main.l-generalContent:nth-child(5) > div.l-generalContent-container > div.l-generalContent-primary > article.p-post:first-child > div.p-post-ad:nth-child(7)
 lifehacker.jp###__next > div.block_lBlock__1OZ4-:nth-child(4) > div.block_lBlock_Primary__E7bx7.block_post__3b-uC:last-child > div:nth-child(4)
 
 !アダルトサイト用フィルター
@@ -53,3 +54,9 @@ nazo2.net###qbox > section > div.ad_article_center:nth-child(8)
 movie.eroterest.net###content > div.row:nth-child(3) > div.col-lg-10.order-2.mainContent:first-child > div.imageListContent:nth-child(6) > iframe:nth-child(3)
 eromanga-time.com###i_frame
 erogazounosuke.com##div.container:nth-child(3) > div.container-inner:first-child > div.foot-pick:nth-child(7)
+erogazooo.club###wrapper > header:nth-child(3) > div.spad:nth-child(6)
+mankist.com###k_area1
+jp.pornhub.com###mobileContainer > div.topAdContainter:nth-child(3)
+movie.eroterest.net###content > div.row:nth-child(3) > div.col-lg-10.order-2.mainContent:first-child > div.adArea:nth-child(2) 
+movie.eroterest.net###content > div.adArea:nth-child(2)
+fuzoku-move.net###custom_html-8 > div.textwidget.custom-html-widget > div.sponly:last-child > div.footer-ad-ol

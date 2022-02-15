@@ -1,7 +1,7 @@
 !僕の作った最強のAdGuard用フィルター
 ! Title: FASfilter
-! Homepage: https://www.かずき.com
-! Version: 20210111
+! Homepage: https://www.kazuki1116.com
+! Version: 20220216
 
 !一般サイト
 smhn.info##.adsbygoogle
@@ -23,6 +23,8 @@ gizmodo.jp###gz-recommendedBottom-outerAd
 gizmodo.jp##main.l-generalContent:nth-child(5) > div.l-generalContent-container > div.l-generalContent-primary > div:nth-child(6)
 gizmodo.jp##main.l-generalContent:nth-child(5) > div.l-generalContent-container > div.l-generalContent-primary > article.p-post:first-child > div.p-post-ad:nth-child(7)
 lifehacker.jp###__next > div.block_lBlock__1OZ4-:nth-child(4) > div.block_lBlock_Primary__E7bx7.block_post__3b-uC:last-child > div:nth-child(4)
+xtech.nikkei.com###main > article.l-main_primary:first-child > div.p-article > div.articleBody.p-article_body:nth-child(2) > section.l-section:nth-child(11)
+s.kakaku.com###newslinkArea > div.flickArea.bnr:last-child
 
 !アダルトサイト用フィルター
 
@@ -60,3 +62,10 @@ jp.pornhub.com###mobileContainer > div.topAdContainter:nth-child(3)
 movie.eroterest.net###content > div.row:nth-child(3) > div.col-lg-10.order-2.mainContent:first-child > div.adArea:nth-child(2) 
 movie.eroterest.net###content > div.adArea:nth-child(2)
 fuzoku-move.net###custom_html-8 > div.textwidget.custom-html-widget > div.sponly:last-child > div.footer-ad-ol
+jp.pornhub.com###mobileContainer > div.adContainer.clearfix:first-child
+jp.pornhub.com##div.premiumPromoBannerWrapper:nth-child(7)
+eromanga-cafe.com###rank1to12
+eromanga-cafe.com##div.resetcounter:nth-child(3) > div:nth-child(2)
+eromanga-cafe.com###ranking > div.itembox
+eromangram.com###single-main > div.link.sp_area:nth-child(2)
+shico.xyz###text-9 > div.textwidget

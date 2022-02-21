@@ -4,13 +4,6 @@
 ! Version: 20220220
 
 !一般サイト
-smhn.info##.adsbygoogle
-smhn.info##.entry-content > aside
-smhn.info##.top_ad
-www.gizmodo.jp##.post-innerRelated
-www.gizmodo.jp##.p-post-ad
-www.gizmodo.jp##article.cxad.-sponsored.p-recommend-cardItem
-gata21.jp##div.container:nth-child(5) > div.container-inner:first-child > div.content:first-child > aside.section-box:nth-child(7) > div.plugin-free_area.plugin-box.box.box-padding.box-margin.box-border
 app-liv.jp###page > div.l-container:nth-child(2) > div.l-container_inner > div.p-catlist:first-child > div.app-ranking.p-applist:last-child > div:nth-child(3) > div.c-app-card.p-pickup.js-app-list-card
 app-liv.jp###page > div.l-container:nth-child(2) > div.l-container_inner > div.p-catlist:first-child > div.app-ranking.p-applist:last-child > div.c-app-card.p-pickup.js-app-list-card:nth-child(19)
 minkou.jp###main > div.mod-section:nth-child(16) > div.result:last-child > div.mod-adsenseSearch.mod-adsenseSearch__box.adsenseSearch__listBottom.mod-adsenseSearch__minHeight:last-child
@@ -19,9 +12,6 @@ minkou.jp###main > div.mod-section:nth-child(16) > div.result:last-child > div.m
 minkou.jp###main > div.mod-section:nth-child(16) > div.result:last-child > div.mod-adsenseSearch.mod-adsenseSearch__box.mod-adsenseSearch__listTop.mod-adsenseSearch__minHeight:nth-child(3)
 minkou.jp###main > div.mod-section:nth-child(16) > div.result:last-child > div.mod-jyukuSearchAdTxt:first-child
 minkou.jp###main > div.mod-section:nth-child(16) > div.result:last-child > div.mod-adsenseSearch.mod-adsenseSearch__box.mod-adsenseSearch__listTop.mod-adsenseSearch__minHeight:nth-child(2)
-gizmodo.jp###gz-recommendedBottom-outerAd
-gizmodo.jp##main.l-generalContent:nth-child(5) > div.l-generalContent-container > div.l-generalContent-primary > div:nth-child(6)
-gizmodo.jp##main.l-generalContent:nth-child(5) > div.l-generalContent-container > div.l-generalContent-primary > article.p-post:first-child > div.p-post-ad:nth-child(7)
 lifehacker.jp###__next > div.block_lBlock__1OZ4-:nth-child(4) > div.block_lBlock_Primary__E7bx7.block_post__3b-uC:last-child > div:nth-child(4)
 xtech.nikkei.com###main > article.l-main_primary:first-child > div.p-article > div.articleBody.p-article_body:nth-child(2) > section.l-section:nth-child(11)
 s.kakaku.com###newslinkArea > div.flickArea.bnr:last-child

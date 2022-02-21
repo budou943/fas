@@ -12,45 +12,4 @@ minkou.jp###main > div.js-jyukunavi-ranking:nth-child(12) > div.mod-section.js-d
 ||myjitsu.jp^
 
 !アダルトサイト用フィルター
-gifnuki.com##div.textwidget
-gifruo.com##.clearfix.container_top_widget_content
-eromanga-daisuki.com###text-30
-nukeruo.com##.widget_custom_html.widget.widget_text
-erodoujinshi-world.com###ranking > div.itembox
-erodoujinshi-world.com##div.resetcounter:nth-child(6) > div:nth-child(3)
-erogazo-ngo.com###text-32 > div.textwidget
-erogazo-ngo.com###text-18 > div.textwidget:last-child > div:first-child > table > tbody
-ilovepaipan.com###content > a:nth-child(6) > img
-ilovepaipan.com###content > a:first-child
-ilovepaipan.com###content > a:nth-child(4)
-movie.eroterest.net###content > div.adArea:nth-child(2)
-movie.eroterest.net###content > div.row:nth-child(3) > div.col-lg-10.order-2.mainContent:first-child > div.adArea:nth-child(2)
-movie.eroterest.net###content > div.row:nth-child(3) > div.col-lg-10.order-2.mainContent:first-child > div.imageListContent:nth-child(4) > iframe:nth-child(3)
-movie.eroterest.net###content > div.adArea.pcDispNone:last-child
-movie.eroterest.net###content > div.adArea.pcDispNone:nth-child(4)
-eromanga-time.com###shimi_comment_widget-3 > div.recent_comments:last-child
-dojin-pandemic.com###ranking > div.itembox
-dojin-pandemic.com##div.resetcounter:nth-child(3) > div:nth-child(2)
-dojin-pandemic.com###rank1to12
-ero-comic-hunter.net###js-load
-ero-comic-hunter.net###rank1to12
-ero-comic-hunter.net##div.resetcounter:nth-child(6) > div:nth-child(3)
-ero-comic-hunter.net##div.resetcounter:nth-child(6) > div.l-wrapper:nth-child(13) > main.l-main > div.dividerBottom > div.postContents:nth-child(9) > section.content > p:nth-child(9)
-nazo2.net###qbox > section > div.ad_article_center:nth-child(8)
-movie.eroterest.net###content > div.row:nth-child(3) > div.col-lg-10.order-2.mainContent:first-child > div.imageListContent:nth-child(6) > iframe:nth-child(3)
-eromanga-time.com###i_frame
-erogazounosuke.com##div.container:nth-child(3) > div.container-inner:first-child > div.foot-pick:nth-child(7)
-erogazooo.club###wrapper > header:nth-child(3) > div.spad:nth-child(6)
-mankist.com###k_area1
-jp.pornhub.com###mobileContainer > div.topAdContainter:nth-child(3)
-movie.eroterest.net###content > div.row:nth-child(3) > div.col-lg-10.order-2.mainContent:first-child > div.adArea:nth-child(2) 
-movie.eroterest.net###content > div.adArea:nth-child(2)
-fuzoku-move.net###custom_html-8 > div.textwidget.custom-html-widget > div.sponly:last-child > div.footer-ad-ol
-jp.pornhub.com###mobileContainer > div.adContainer.clearfix:first-child
-jp.pornhub.com##div.premiumPromoBannerWrapper:nth-child(7)
-eromanga-cafe.com###rank1to12
-eromanga-cafe.com##div.resetcounter:nth-child(3) > div:nth-child(2)
-eromanga-cafe.com###ranking > div.itembox
-eromangram.com###single-main > div.link.sp_area:nth-child(2)
-shico.xyz###text-9 > div.textwidget
 ||https://*.eroelog.com##a[href^="https://eroelog.xsrv.jp^"]

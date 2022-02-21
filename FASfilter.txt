@@ -1,7 +1,7 @@
 !僕の作った最強のAdGuard用フィルター
 ! Title: FASfilter
 ! Homepage: https://www.kazuki1116.com
-! Version: 20220220
+! Version: 20220221
 
 !一般サイト
 minkou.jp###main > div.mod-section:first-child > div.mod-result:last-child > div.searchMod-result:first-child
@@ -10,6 +10,20 @@ minkou.jp###main > div.mod-section:first-child > div.mod-result:last-child > div
 minkou.jp###main > div.mod-section:first-child > div.mod-result:last-child > div.mod-adsenseSearch.mod-adsenseSearch__thumb:nth-child(3)
 minkou.jp###main > div.js-jyukunavi-ranking:nth-child(12) > div.mod-section.js-display-ad
 ||myjitsu.jp^
+itmedia.co.jp###cmsBodyMain > div.colBoxIndex.colBoxIndexAD:nth-child(5)
+itmedia.co.jp###TopBox
 
 !アダルトサイト用フィルター
 ||https://*.eroelog.com##a[href^="https://eroelog.xsrv.jp^"]
+eromanga-time.com###text-27
+erodoujinshi-world.com##div.resetcounter:nth-child(6) > div:nth-child(3)
+erodoujinshi-world.com###js-load
+erodoujinshi-world.com###rank1to12
+nukemanga.com###shimi_comment_widget-3
+ero-comic-hunter.net##div.resetcounter:nth-child(6) > div:nth-child(3)
+ero-comic-hunter.net###rank1to12
+ero-comic-hunter.net###js-load
+moeero-library.com##div.resetcounter:nth-child(6) > div:nth-child(3)
+moeero-library.com###rank1to12
+moeero-library.com###js-load
+oreno-erohon.com###content > div.sp_head_box:first-child

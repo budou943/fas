@@ -1,7 +1,7 @@
 !僕の作った最強のAdGuard用フィルター
 ! Title: FASfilter
 ! Homepage: https://www.kazuki1116.com
-! Version: 20220221
+! Version: 20220224
 
 !一般サイト
 minkou.jp###main > div.mod-section:first-child > div.mod-result:last-child > div.searchMod-result:first-child
@@ -27,3 +27,9 @@ moeero-library.com##div.resetcounter:nth-child(6) > div:nth-child(3)
 moeero-library.com###rank1to12
 moeero-library.com###js-load
 oreno-erohon.com###content > div.sp_head_box:first-child
+ero-nuki.net###container > section:first-child > div:nth-child(14)
+ero-nuki.net###container > section:first-child > div.movie_header:nth-child(11)
+gifruo.com###container > div.container_top_widget:nth-child(4)
+mankist.com###contentInner > main > article > div.pickup_kizi:nth-child(7)
+javmobile.mobi##div.wrapper:nth-child(2) > div.ave-pl:last-child
+javmobile.mobi##div.wrapper:nth-child(2) > div.full-obol:nth-child(2) > div.full-tab > div.full-ave-pl:last-child

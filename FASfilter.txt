@@ -44,3 +44,16 @@ gifnuki.com##div.textwidget:nth-child(20)
 gifnuki.com##div.textwidget:nth-child(15)
 gifnuki.com###e1427 > div.textwidget:nth-child(4)
 gifruo.com###container > div.container_top_widget:nth-child(4) > div.container_top_widget_content.clearfix
+nukemanga.com###shimi_comment_widget-3
+oreno-erohon.com###content > div.sp_head_box:first-child
+erodoujinshi-world.com###rank1to12
+erodoujinshi-world.com##div.resetcounter:nth-child(6) > div:nth-child(3)
+erodoujinshi-world.com###ranking
+eromanga-school.com###active_overlay_100005646
+boxfresh-jp.com##div.footer-reg:last-child
+xnxx.com###content-ad-top-zone
+fuzoku-move.net###custom_html-8 > div.textwidget.custom-html-widget > div.sponly:last-child > div.footer-ad-ol
+vipcle2.com###text-43
+vipcle2.com###singlentry > div.single-pick:nth-child(2)
+||ad-cheers.com*
+jp.pornhub.com###mobileContainer > div.adContainer.clearfix:first-child

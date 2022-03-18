@@ -1,7 +1,7 @@
 !僕の作った最強のAdGuard用フィルター
 ! Title: FASfilter
 ! Homepage: https://www.kazuki1116.com
-! Version: 20220226
+! Version: 20220318
 
 !一般サイト
 minkou.jp###main > div.mod-section:first-child > div.mod-result:last-child > div.searchMod-result:first-child

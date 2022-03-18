@@ -57,3 +57,5 @@ vipcle2.com###text-43
 vipcle2.com###singlentry > div.single-pick:nth-child(2)
 ||ad-cheers.com*
 jp.pornhub.com###mobileContainer > div.adContainer.clearfix:first-child
+eromanga-school.com###active_overlay_100005646
+nukemanga.com###shimi_comment_widget-3

@@ -1,7 +1,7 @@
 !僕の作った最強のAdGuard用フィルター
 ! Title: FASfilter
 ! Homepage: https://www.kazuki1116.com
-! Version: 20220318
+! Version: 20220321
 
 !一般サイト
 minkou.jp###main > div.mod-section:first-child > div.mod-result:last-child > div.searchMod-result:first-child
@@ -12,6 +12,14 @@ minkou.jp###main > div.js-jyukunavi-ranking:nth-child(12) > div.mod-section.js-d
 ||myjitsu.jp^
 itmedia.co.jp###cmsBodyMain > div.colBoxIndex.colBoxIndexAD:nth-child(5)
 itmedia.co.jp###TopBox
+minkou.jp###<div class="mod-adsenseSearch mod-adsenseSearch__box mod-adsenseSearch__listTop mod-adsenseSearch__minHeight">
+itpassportsiken.com###main_contents > section.content:nth-child(2) > div.ad2:nth-child(5)
+itpassportsiken.com###main_contents > section.content:nth-child(2) > div.ad2:nth-child(8)
+itpassportsiken.com###main_contents > section.content:nth-child(2) > div.ad2:nth-child(9)
+itpassportsiken.com###main_contents > section.content:nth-child(2) > div.ad2:nth-child(6)
+japanese.engadget.com##div.drawer-swipeable.drawer-transition:first-child > div.wrapper.W\(100vw\).T\(0\).Start\(0\).Ovs\(touch\):last-child > div > main.Mt\(80px\)--md.Mt\(60px\)--sm:nth-child(3) > div:first-child
+s.kakaku.com###newslinkArea > div.flickArea.bnr:last-child > ul.flipsnap
+k-tai.watch.impress.co.jp###<aside class="ad rect inline-rect">
 
 !アダルトサイト用フィルター
 ||https://*.com##a[href^="https://eroelog.xsrv.jp^"]
@@ -59,3 +67,7 @@ vipcle2.com###singlentry > div.single-pick:nth-child(2)
 jp.pornhub.com###mobileContainer > div.adContainer.clearfix:first-child
 eromanga-school.com###active_overlay_100005646
 nukemanga.com###shimi_comment_widget-3
+jk-eromanga.com###act_secretboots
+jk-eromanga.com###active_overlay_100004951
+eromanga-ace.com###text-22
+eromanga-school.com###main-contents > section.cps-post-box.hentry:first-child > article.cps-post > div.cps-post-main-box:last-child > div.cps-post-main.h2-style01.h3-style01.h4-style01.entry-content.m-size.m-size-sp > img:nth-child(42)

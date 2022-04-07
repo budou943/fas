@@ -20,6 +20,13 @@ itpassportsiken.com###main_contents > section.content:nth-child(2) > div.ad2:nth
 japanese.engadget.com##div.drawer-swipeable.drawer-transition:first-child > div.wrapper.W\(100vw\).T\(0\).Start\(0\).Ovs\(touch\):last-child > div > main.Mt\(80px\)--md.Mt\(60px\)--sm:nth-child(3) > div:first-child
 s.kakaku.com###newslinkArea > div.flickArea.bnr:last-child > ul.flipsnap
 k-tai.watch.impress.co.jp###<aside class="ad rect inline-rect">
+jma-net.go.jp###main > div.ad-pc:first-child
+news.infoseek.co.jp##div.top_ad_area:nth-child(9)
+infoseek.co.jp###div-gpt-ad-1531795892031-0
+infoseek.co.jp##div.top_ad_area:nth-child(4)
+infoseek.co.jp##div.top_ad_area:nth-child(10) > div
+lifehacker.jp###__next > div.block_lBlock__1OZ4-:nth-child(5) > div.block_lBlock_Primary__E7bx7.block_post__3b-uC:last-child > div:nth-child(4)
+komachi.yomiuri.co.jp###ad_gam_topics_article-rec
 
 !アダルトサイト用フィルター
 ||https://*.com##a[href^="https://eroelog.xsrv.jp^"]
@@ -71,3 +78,5 @@ jk-eromanga.com###act_secretboots
 jk-eromanga.com###active_overlay_100004951
 eromanga-ace.com###text-22
 eromanga-school.com###main-contents > section.cps-post-box.hentry:first-child > article.cps-post > div.cps-post-main-box:last-child > div.cps-post-main.h2-style01.h3-style01.h4-style01.entry-content.m-size.m-size-sp > img:nth-child(42)
+eromanga-school.com###active_overlay_100005646
+eromanga-time.com###active_overlay_100005580

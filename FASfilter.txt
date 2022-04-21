@@ -1,7 +1,7 @@
 !僕の作った最強のAdGuard用フィルター
-! Title: FASfilter
-! Homepage: https://www.kazuki1116.com
-! Version: 20220321
+! Title:FASfilter
+! Homepage:https://www.kazuki1116.com
+! Version:2022/04/21
 
 !一般サイト
 minkou.jp###main > div.mod-section:first-child > div.mod-result:last-child > div.searchMod-result:first-child
@@ -80,3 +80,5 @@ eromanga-ace.com###text-22
 eromanga-school.com###main-contents > section.cps-post-box.hentry:first-child > article.cps-post > div.cps-post-main-box:last-child > div.cps-post-main.h2-style01.h3-style01.h4-style01.entry-content.m-size.m-size-sp > img:nth-child(42)
 eromanga-school.com###active_overlay_100005646
 eromanga-time.com###active_overlay_100005580
+eromanga-time.com###active_overlay_100005580
+eromanga-time.com###text-27

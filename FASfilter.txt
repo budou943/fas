@@ -27,6 +27,11 @@ infoseek.co.jp##div.top_ad_area:nth-child(4)
 infoseek.co.jp##div.top_ad_area:nth-child(10) > div
 lifehacker.jp###__next > div.block_lBlock__1OZ4-:nth-child(5) > div.block_lBlock_Primary__E7bx7.block_post__3b-uC:last-child > div:nth-child(4)
 komachi.yomiuri.co.jp###ad_gam_topics_article-rec
+boxfresh-jp.com##div.footer-reg:last-child
+blocked.teams.cloudflare.com##div.info > div.request-info:last-child
+gifruo.com###container > div.container_top_widget:nth-child(4) > div.container_top_widget_content.clearfix
+smhn.info###share
+smhn.info###main > div.container > div.top_ad:first-child
 
 !アダルトサイト用フィルター
 ||https://*.com##a[href^="https://eroelog.xsrv.jp^"]
@@ -65,8 +70,6 @@ erodoujinshi-world.com###rank1to12
 erodoujinshi-world.com##div.resetcounter:nth-child(6) > div:nth-child(3)
 erodoujinshi-world.com###ranking
 eromanga-school.com###active_overlay_100005646
-boxfresh-jp.com##div.footer-reg:last-child
-xnxx.com###content-ad-top-zone
 fuzoku-move.net###custom_html-8 > div.textwidget.custom-html-widget > div.sponly:last-child > div.footer-ad-ol
 vipcle2.com###text-43
 vipcle2.com###singlentry > div.single-pick:nth-child(2)
@@ -82,3 +85,4 @@ eromanga-school.com###active_overlay_100005646
 eromanga-time.com###active_overlay_100005580
 eromanga-time.com###active_overlay_100005580
 eromanga-time.com###text-27
+xnxx.com###content-ad-top-zone

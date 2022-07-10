@@ -86,3 +86,21 @@ eromanga-time.com###active_overlay_100005580
 eromanga-time.com###active_overlay_100005580
 eromanga-time.com###text-27
 xnxx.com###content-ad-top-zone
+gifnuki.com##div.textwidget:nth-child(13)
+gifnuki.com##div.textwidget:nth-child(12)
+gifnuki.com##div.textwidget:nth-child(11)
+gifnuki.com##div.textwidget:nth-child(10)
+gifruo.com###container > div.container_top_widget:nth-child(4) > div.container_top_widget_content.clearfix
+erogazoufactory.com###text-36 > div.textwidget > div.pickup:nth-child(2) > ul
+erogazoufactory.com###header_widget
+vipcle2.com###post-202038 > div.article-body:nth-child(4) > div.single-pick:nth-child(5)
+vipcle2.com###post-184059 > div.article-body:nth-child(4) > div.single-pick:nth-child(2)
+vipcle2.com###post-184059 > div.article-title-outer:first-child
+vipcle2.com###text-69
+vipcle2.com###text-52
+vipcle2.com###text-39
+hobonichielog.com###article_box > div:nth-child(2)
+hobonichielog.com###nav-below
+hobonichielog.com###text-83 > div.textwidget
+hobonichielog.com###text-46
+hobonichielog.com###content > div.navigation:nth-child(3)
